@@ -1,0 +1,25 @@
+1.
+  a. HTML is a hypertext markup language. It is used to describe the structure of the web page
+  and it's contents.
+  b. CSS - Cascading stylesheets. A language, that allows to add styling to elements,
+  defined in HTML markup.
+  c. JS - is object oriented programming language. Commonly used in web to add dynamics to
+  web pages.
+  d. HTTP - hypertext transfer protocol. Used to transfer data between server and client.
+  Is a plane text. Application level protocol.
+  e. HTML5 is the latest specification of HTML, which is bringing the death of Flash
+  due to it's possibilities.
+  f. DHTML is a concept, achieved by many different technologies, which allow the content
+  of the page to change on the fly, without reloading the page. Everything from dropdown menus
+  on hover to AJAX can be considered as DHTML.
+
+2.
+  Coding conventions are guidelines and rules of thumb for how to use some particular language.
+  They cover things
+  like file organization, indent, naming, white spacing, structure and others.
+  These conventions are used mostly to improve readability of the code, make it easier to
+  maintain both for yourself (if you return to this code after a while) and for others.
+
+  I, personally, try to follow all the conventions. The one I previously haven't used is Declaration
+  order in CSS and from now on I will try to use it.
+

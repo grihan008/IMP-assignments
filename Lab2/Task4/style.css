@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #ccc;
+}
+#welcome{
+	background-color: #999;
+	padding:.1em .2em;
+}
+nav ul li{
+	font-size: 2em;
+	text-align: center;
+}
+h1{
+	font-size: 2em;
+	text-transform: uppercase;
+}
+main{
+	padding:0 1em;
+}
+main h1{
+	margin-top:.5em;
+}
+main h5{
+	margin:.5em 0;
+}
+main figure{
+	text-align: center;
+}
+main figure img{
+	padding:.5em;
+	border: 1px solid #aaa;
+	width:40%;
+}
+@media screen and (min-width: 992px){
+	nav{
+		width:15%;
+		padding:2em;
+		float:left;
+	}
+	nav ul li{
+		text-align: left;
+	}
+	main{
+		width:85%;
+		float:right;
+	}
+	nav+hr{
+		display: none;
+	}
+}

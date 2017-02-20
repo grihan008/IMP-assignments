@@ -1,0 +1,17 @@
+.welcome{
+  width:80%;
+  margin: 1em auto;
+  padding: .5em;
+
+  background-color: #eee;
+  box-shadow: 0px 0px 1px 1px #ccc;
+}
+.form{
+  width:70%;
+  margin:1em auto;
+  padding:.5em;
+
+  background-color: #a6b;
+
+  text-align: center;
+}

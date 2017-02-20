@@ -1,0 +1,11 @@
+1. jQuery is a JS library, which purpose is to simplify client-side scripting. It can do DOM manipulations, handle events, do
+effects and animations, ajax, json parsing.
+
+2.jQuery makes all the things, that can be done in pure JS, but it is way much easier to do them in jQuery as it has many things built
+in, that will take quite a lot of time to complete in JS (here they are done in ready methods that contain extra functionality
+or/and have much shorter syntax) like animations, ajax, DOM elements selection and manipulation.
+
+3.Element selection, Adding data to element, click function handling.
+
+4.CDN-Content Delivery Network. System that spreads servers, containing data geographically, which makes download speeds higher.
+ 

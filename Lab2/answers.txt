@@ -1,0 +1,4 @@
+1. 
+	1.Responsive Web design is a web development approach, where web site is designed to be easily accessible and readible on any kind of devices from small mobile phones to desktop PC's with huge screens. Before RWD sites were not responsive at all, then some kind of responsivness was added, where different types of devices were targeted (fixed screen sizes). Now media queries are used.
+	2.Media queries can help to build responsive design by targeting devices throgh different parameters like screen width/height, DPI and others.
+	3.Using ems is a good prctice because they are scaled from font size on the current device and thus looks way much better than pixels (which should be recalculated for every screen). 

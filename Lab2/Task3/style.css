@@ -1,0 +1,20 @@
+body{
+	background-color: #ccc;
+}
+#welcome{
+	background-color: #999;
+	padding:.1em .2em;
+}
+h1{
+	font-size: 2em;
+	text-transform: uppercase;
+}
+main{
+	padding:0 1em;
+}
+main h1{
+	margin-top:.5em;
+}
+main h5{
+	margin:.5em 0;
+}
